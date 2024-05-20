@@ -2,7 +2,7 @@
 ### Main README.md
 
 ```markdown
-# Windows Engineering Scripts
+## Windows Engineering Scripts
 
 This repository contains useful PowerShell and Bash scripts for Windows installation and configuration.
 
