@@ -1,11 +1,16 @@
+# Automation Scripts
 
-### Main README.md
+This repository contains various automation scripts for setting up development environments and installing essential software on Windows systems.
 
-```markdown
-## Windows Engineering Scripts
+## Description
 
-This repository contains useful PowerShell and Bash scripts for Windows installation and configuration.
+The scripts in this repository are designed to simplify and automate the installation and configuration of essential software and environment variables. They leverage tools such as PowerShell, Bash, Chocolatey, and Winget to ensure that your development environment is set up quickly and efficiently.
 
-## PowerShell Scripts
+## How to Use
 
-- [Install Windows Software Using Winget](install_windows_software_winget/README.md)
+### General Instructions
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/automation-scripts.git
+   cd automation-scripts
