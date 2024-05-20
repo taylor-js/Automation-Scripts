@@ -12,5 +12,5 @@ The scripts in this repository are designed to simplify and automate the install
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/automation-scripts.git
+   git clone https://github.com/taylor-js/automation-scripts.git
    cd automation-scripts
